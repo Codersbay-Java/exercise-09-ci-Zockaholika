@@ -6,4 +6,4 @@
 - Add another action which executes the tests on Windows.
 - Add a badge for it.
 - Fail one of them and check the badges.
-  [![event=push](https://github.com/Codersbay-Java/exercise-09-ci-Zockaholika/actions/workflows/ubuntu-run-tests.yml/badge.svg?event=push)]
+  ![event=push](https://github.com/Codersbay-Java/exercise-09-ci-Zockaholika/actions/workflows/ubuntu-run-tests.yml/badge.svg?event=push)
