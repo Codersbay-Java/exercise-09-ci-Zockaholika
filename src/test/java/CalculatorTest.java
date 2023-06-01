@@ -43,6 +43,6 @@ public class CalculatorTest {
         ArithmeticException exception = Assertions.assertThrows(ArithmeticException.class, () -> {
             Calculator.divide(10, 0);
         });
-        Assertions.assertEquals("Cannot divide by zero", exception.getMessage());
+        Assertions.assertEquals("Can2not divide by zero", exception.getMessage());
     }
 }
